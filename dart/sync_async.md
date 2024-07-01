@@ -98,3 +98,6 @@ Future<String> getData() async {
   }
 }
 ```
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/7cb2da65-5d73-4b42-9d3f-d5937394ba97/30b0bc7b-9c62-4edb-a763-1ba3a1f9cc50/Untitled.png)
+미묘하게 다름 선생님은 위에거 선호하신다고..
